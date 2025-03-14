@@ -1,0 +1,7 @@
+env
+__pycache__
+output-tiny
+voices
+pretrained_models
+.env 
+reminders.db
