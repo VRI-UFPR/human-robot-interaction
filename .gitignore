@@ -5,3 +5,4 @@ voices
 pretrained_models
 .env 
 reminders.db
+output.mp3
